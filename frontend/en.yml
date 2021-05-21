@@ -1,0 +1,6 @@
+en:
+  reports:
+    accession_list_of_acquired_accessions:
+      title: UTK List of Accessions Acquired in Given Time Period
+      description: List of accessions acquired in a given time period (with appropriate metadata)
+      identifier_prefix: Accession
